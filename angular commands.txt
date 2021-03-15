@@ -1,9 +1,9 @@
 npm install
-npm install --save-dev @angular/cli@latest @angular-devkit/build-angular
 npm install -g yarn
 npm install -g typescript
 npm install bootstrap --save
 npm install jquery --save
+npm install --save-dev @angular/cli@latest @angular-devkit/build-angular
 npm install --save-dev @angular-devkit/build-angular
 npm install ng-multiselect-dropdown
 ng update @angular/cli @angular/core --allow-dirty --force
