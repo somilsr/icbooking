@@ -1,0 +1,162 @@
+npm install
+npm install --save-dev @angular/cli@latest @angular-devkit/build-angular
+npm install -g yarn
+npm install -g typescript
+npm install bootstrap --save
+npm install jquery --save
+npm install --save-dev @angular-devkit/build-angular
+npm install ng-multiselect-dropdown
+ng update @angular/cli @angular/core --allow-dirty --force
+ng update --all --force
+npm cache clean --force
+npm i 
+
+npm uninstall node-sass
+npm install node-sass@4.14.1
+
+npm install @angular/http@latest
+npm install --save-dev @angular/cli@latest
+ng update @angular/cli
+ng update @angular/core
+ng update rxjs
+npm install -g  @angular/cli
+An unhandled exception occurred: Cannot find module '@angular-devkit/build-angular/package.json'
+
+
+npm uninstall --save-dev angular-cli
+npm install --save-dev @angular/cli@latest
+npm install
+
+npm uninstall -g @angular/cli
+npm cache verify
+
+npm install --global typescript 
+npm install --save-dev typescript
+
+npm install -g @angular/cli@latest
+
+ng update @angular/cli @angular/core --allow-dirty --force
+npm cache clean --force
+npm i rebuild node-gyp
+npm i rebuild node-sass
+
+ npm
+npm install bs-stepper --save
+ 
+# yarn
+yarn add bs-stepper
+
+npm install @angular/http@latest
+npm uninstall -g @angular-cli
+npm install -g @angular/cli@latest
+ng update @angular/cli @angular/core
+ng update @angular/cli @angular/core --next=true
+
+
+How to update local Angular CLI version? in package.json file using ‘ncu’ utility
+Last updated on May 7, 2020 Jolly.Exe
+
+
+
+
+
+
+
+
+
+$ npm install -g @angular/cliCopy
+
+
+$ ng new Angular8appCopy
+
+Your global Angular CLI version (8.0.2) is greater than your local
+version (7.3.8). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+
+
+
+# Install npm-check-updates
+$ npm i -g npm-check-updates
+
+# Run npm-check-updates with -u, will upgrade package.json
+$ ncu -u
+
+# Install updated packages
+$ npm install
+
+npm install --save @types/chart.js
+npm link webpack
+npm install --save-dev webpack-dev-server 
+npm install --save-dev webpack-cli
+npm install chart.js --save
+npm i -g webpack webpack-cli
+
+rm node_modules -r -force
+rm package-lock.json
+npm cache verify
+npm install
+
+npm i -D typescript@4.1.5
+
+npm i -g npm-check-updates
+ncu -u
+npm install
+
+
+
+npm install
+npm install -g @angular/cli
+npm install -g yarn
+npm install -g typescript
+npm install -g bootstrap
+ng add @angular/material
+npm install bs-stepper --save
+yarn add bs-stepper
+npm install --save-dev @angular-devkit/build-angular
+ng update --all --force
+npm uninstall node-sass
+npm install node-sass@4.14.1
+npm cache clean --force
+
+ng update @angular/cli @angular/core --allow-dirty --force
+
+ng update @angular/cli
+ng update @angular/core
+ng update rxjs
+npm install jquery --save
+npm install popper.js --save
+npm install bootstrap@next --save
+
+
+
+An unhandled exception occurred: Cannot find module '@angular-devkit/build-angular/package.json'
+npm install --save-dev @angular-devkit/build-angular
+
+
+
+[Resolved] An unhandled exception occurred: Cannot find module '@angular/compiler-cli'
+
+1. You need update angular-cli to the latest version
+
+ 
+npm remove -g angular-cli
+npm install -g @angular/cli@latest 
+2. Update the project dependencies
+ npm rm -rf node_modules dist
+npm install --save-dev @angular/cli@latest
+npm install 
+
+
+npm install -g mdb-cli
+2. Log into the CLI using your MDB account:
+
+mdb login
+Please provide your MDB username and password which you use to login on our website.
+3. Initialize a project:
+
+mdb init
+Please use arrows to move up and down to choose desired project
+4. Publish your project:
+
+mdb publish
